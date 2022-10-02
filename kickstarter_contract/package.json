@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ayushsahu1999/KickstarterCampaign#readme",
   "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.16",
     "fs-extra": "^10.1.0",
     "ganache": "^7.4.3",
     "mocha": "^10.0.0",
